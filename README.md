@@ -1,6 +1,6 @@
 Contributors: -
 
-Name                     email
+Name:                    email
 
 Kapil  Mandowra          kapilmandowra96@gmail.com
 
